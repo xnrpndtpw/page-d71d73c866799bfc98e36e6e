@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "09454c460e3e48702ad77855",
+  "owner": "xnrpndtpw",
+  "repo": "page-d71d73c866799bfc98e36e6e",
+  "title": "美猴王(MonkeyKing)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d71d73c866799bfc98e36e6e",
+      "a": "美猴王(MonkeyKing)",
+      "b": "",
+      "entity": "美猴王(MonkeyKing)",
+      "brand": "美猴王(MonkeyKing)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "73200b4b49eb24f65f7b4ebf4197b7811466d329fc5dc52910dbd609ccb9cd6c",
+      "content": {
+        "keyword1": "美猴王(MonkeyKing)",
+        "keyword2": "",
+        "primary_entity": "美猴王(MonkeyKing)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "美猴王(MonkeyKing)官方网站提供VPN梯子、机场订阅与多端加速器客户端下载，覆盖办公、流媒体与游戏加速场景，并给出清晰配置流程与套餐说明。",
+          "AI_DESCRIPTION": "美猴王(MonkeyKing)官方网站提供VPN梯子、机场订阅与多端加速器客户端下载，覆盖办公、流媒体与游戏加速场景，并给出清晰配置流程与套餐说明。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;background:#071422;color:#d7eef8;font-size:16px;line-height:1.65}a{color:#2ee6d6;text-decoration:none}a:hover{text-decoration:underline}header{background:#0c2744;border-bottom:1px solid #155e75;padding:12px 0} .wrap{width:100%;max-width:920px;margin:0 auto;padding:0 16px}nav{display:flex;flex-wrap:wrap;gap:10px 16px;font-size:14px}h1{font-size:1.7rem;color:#7af0e8;margin:20px 0 12px}h2{font-size:1.3rem;color:#5eead4;margin:28px 0 12px;border-left:4px solid #22d3ee;padding-left:10px}h3{font-size:1.08rem;color:#a5f3fc;margin:16px 0 8px}.lead{font-size:1.05rem;color:#b6d7e8}.cards{display:grid;grid-template-columns:1fr;gap:12px}@media(min-width:720px){.cards{grid-template-columns:repeat(3,1fr)}}.card{background:#0e2a45;border:1px solid #164e63;border-radius:8px;padding:14px}.card.featured{border-color:#22d3ee;box-shadow:0 0 0 1px #22d3ee}.price{font-size:1.25rem;color:#67e8f9;font-weight:700}.muted{color:#8fb4c9;font-size:.9rem}ul{padding-left:1.2em;margin:8px 0}.step{background:#0e2a45;border-radius:8px;padding:12px;margin:8px 0;border:1px solid #155e75}details{background:#0e2a45;border:1px solid #155e75;border-radius:6px;padding:8px 12px;margin:8px 0}summary{font-weight:600;color:#99f6e4}.ad{background:#102c3e;border:1px dashed #22d3ee;padding:12px;border-radius:8px;text-align:center;color:#9ec9dc;margin:16px 0}.links{display:flex;flex-wrap:wrap;gap:8px 14px}footer{margin-top:32px;padding:20px 0;border-top:1px solid #155e75;font-size:13px;color:#8fb4c9}p{overflow-wrap:anywhere}</style><header><div class=\"wrap\"><nav><a href=\"#top\">首页</a><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐</a><a href=\"#scenes\">使用场景</a><a href=\"#setup\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#friends\">友链</a><a href=\"#sitemap\">网站地图</a></nav></div></header><main class=\"wrap\" id=\"top\"><h1>美猴王(MonkeyKing)官网</h1><p class=\"lead\">美猴王(MonkeyKing)官方网站集中提供 VPN 梯子、机场订阅、网络加速器说明与客户端官方下载入口。本页按官网结构整理套餐、使用场景与配置流程，方便你完成订阅导入并稳定连接。</p><section id=\"intro\"><h2>品牌简介</h2><p>美猴王(MonkeyKing)面向需要跨境访问、流媒体解锁与低延迟加速的个人与团队，采用机场订阅方式交付节点与客户端配置。用户可在官网选择套餐后获取订阅链接，再导入 Clash、Shadowrocket、Surge 等常用客户端，或使用官方轻量客户端完成连接。</p><p>服务覆盖日常资讯访问、远程办公、影视直播与游戏加速。基础版侧重入门流量与常用线路，旗舰版强化原生流媒体与 IPLC 专线，团队版面向多设备与定制路由。所有说明均以本站为官方身份来源，下载请走官网下载入口，避免来路不明的安装包。</p></section><section id=\"plans\"><h2>套餐与官方订阅</h2><p>以下为美猴王当前公开套餐，价格与权益以开通时页面展示为准。按年付可锁定对应年价。选择后即可在用户中心复制机场订阅，用于各端加速器。</p><div class=\"cards\"><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"muted\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p><a href=\"#setup\">查看配置流程</a> · <a href=\"#download\">前往客户端下载</a></p></article><article class=\"card featured\"><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"muted\">按年付仅需 ¥350/年 · 推荐</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p><a href=\"#setup\">按流程开通并导入</a> · <a href=\"#download\">官方下载</a></p></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"muted\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p><a href=\"#setup\">团队配置说明</a> · <a href=\"#download\">多端客户端</a></p></article></div></section><section id=\"scenes\"><h2>使用场景</h2><h3>跨境办公与协作</h3><p>远程会议、云文档与代码仓库访问时，可选用延迟更稳的线路。旗舰版 IPLC 适合对抖动敏感的连线，团队版可按部门做分流与设备配额。</p><h3>流媒体与资讯</h3><p>基础版覆盖常用影视站点的基础解锁；旗舰版强调全节点原生流媒体。观看前更新一次订阅，再切换对应地区节点即可。</p><h3>游戏与实时通讯</h3><p>对战与语音场景优先走 IPLC 专线游戏加速优化节点，减少绕路。连接后建议固定一个延迟最低的节点，避免频繁切换。</p><h3>多设备与小团队共享</h3><p>同一订阅可在额度内多端同时在线：基础版 3 台、旗舰版 5 台、团队版 20 台。家庭路由或办公室网关可配合规则分流，仅对跨境流量走加速器。</p></section><section id=\"setup\"><h2>配置流程</h2><p>美猴王把首次上手拆成五步。按顺序完成即可从官网走到可上网的加速器客户端，无需额外脚本或第三方插件。</p><div class=\"step\"><h3>第一步：在官网确认套餐</h3><p>对照流量、同时在线设备、流媒体与是否需要 IPLC。个人入门选基础版，观影与游戏选旗舰版，多人协作选团队版。年付适合长期使用。</p></div><div class=\"step\"><h3>第二步：开通并复制机场订阅</h3><p>完成开通后进入用户中心，复制通用订阅链接。请只在美猴王(MonkeyKing)官网生成该链接，不要把订阅粘贴到公开论坛。如需重置订阅，在同一页面重新生成即可让旧链接失效。</p></div><div class=\"step\"><h3>第三步：下载客户端</h3><p>Windows、macOS、Android、iOS 与 Linux 均可。可使用官方轻量客户端，或 Clash Meta / Clash Verge、Shadowrocket、Surge、Quantumult X 等兼容订阅的加速器。安装包一律从本页官方下载区块获取。</p></div><div class=\"step\"><h3>第四步：导入订阅并更新节点</h3><p>打开客户端的订阅或配置页，粘贴链接并执行更新。成功后会出现美猴王节点列表，包含普通线路、流媒体优化与 IPLC 分组。先选延迟较低的节点做一次连通测试。</p></div><div class=\"step\"><h3>第五步：规则分流与日常维护</h3><p>建议开启规则模式：国内直连、跨境走代理。每月关注流量余量，设备数不要超过套餐上限。节点异常时先更新订阅，再切换同分组其他节点。旗舰用户可通过优先工单反馈线路质量。</p></div></section><section id=\"download\"><h2>客户端下载与官网入口</h2><p>以下为美猴王官方下载说明。各系统安装包与导入教程集中在官网下载中心。本页链接指向站内锚点，用于引导你完成对应平台配置，不跳转到不明第三方。</p><h3>桌面端</h3><p><a href=\"#download\">Windows 官方客户端</a> 支持订阅一键导入与系统代理。<a href=\"#download\">macOS 官方客户端</a> 适配菜单栏快捷切换。Linux 用户可使用兼容 Clash Meta 内核的配置文件，同样粘贴机场订阅即可。</p><h3>移动端</h3><p><a href=\"#download\">Android 官方下载</a> 提供 APK 与订阅扫描说明。<a href=\"#download\">iOS 客户端指引</a> 说明如何在兼容 App 中添加美猴王订阅。移动端注意省电与后台 VPN 权限，避免系统休眠断开。</p><h3>订阅兼容</h3><p>美猴王机场订阅遵循常见 Clash / SIP008 类格式，可在主流加速器中使用。导入后请先更新，再选择节点。若客户端提示证书或端口冲突，关闭其他代理软件后重试。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>如何从美猴王官网下载客户端？</summary><p>打开本页「客户端下载」章节，按 Windows、macOS、Android 或 iOS 选择对应官方下载入口。请认准美猴王(MonkeyKing)官方网站，不要使用来路不明的镜像包。安装完成后回到配置流程导入订阅。</p></details><details><summary>机场订阅链接怎样导入加速器？</summary><p>在官网用户中心复制订阅地址，于 Clash、Shadowrocket、Surge 等客户端的订阅页面粘贴并更新。更新成功会出现节点分组。若失败，检查链接是否完整、本地时间是否准确，然后重新生成订阅再试。</p></details><details><summary>三个套餐如何选择？</summary><p>基础版适合轻度访问：每月 100GB、3 台设备、基础流媒体与普通线路。旗舰版适合观影与游戏：300GB、5 台设备、全节点原生解锁与 IPLC。团队版适合多成员：1000GB、20 台设备、VIP 带宽、定制路由与专属客户经理。</p></details><details><summary>流量与设备超限会怎样？</summary><p>当月流量用尽后新连接会受限，可等待下个计费周期重置或升级套餐。同时在线超过套餐台数时，最早接入的设备可能被挤下线。团队版可用专属经理协助规划设备配额。</p></details><details><summary>是否支持流媒体与游戏加速？</summary><p>基础版提供基础流媒体解锁。旗舰版与团队版强调全节点或 VIP 线路的原生解锁，旗舰版另含 IPLC 专线游戏加速优化。播放或开局前请更新订阅并选择对应分组节点。</p></details><details><summary>节点连不上时如何排查？</summary><p>依次检查：本地网络是否正常、系统时间、是否有其他 VPN 占用、订阅是否已更新。然后更换同分组节点。若仍失败，旗舰用户走 7x24 优先工单，团队用户联系专属客户经理，基础用户提交常规工单并附客户端日志摘要。</p></details></section><section class=\"ad\" id=\"ads\"><h2>广告位</h2><p>美猴王官网合作展示位：欢迎网络工具、云主机与远程办公产品互换文字链。合作说明见页脚，不放置脚本或外部资源。</p></section><section id=\"friends\"><h2>友情链接</h2><div class=\"links\"><a href=\"#\">跨境办公手册</a><a href=\"#\">节点测速实验室</a><a href=\"#\">Clash 配置笔记</a><a href=\"#\">流媒体分区指南</a><a href=\"#\">远程协作工具站</a></div></section><section id=\"sitemap\"><h2>网站地图</h2><div class=\"links\"><a href=\"#top\">首页</a><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐</a><a href=\"#scenes\">使用场景</a><a href=\"#setup\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#ads\">广告</a><a href=\"#friends\">友链</a></div></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>美猴王(MonkeyKing)官方网站 · 官方下载与机场订阅说明 · 版权所有</p><p><a href=\"#download\">官网下载</a> · <a href=\"#setup\">配置流程</a> · <a href=\"#sitemap\">网站地图</a></p></div></footer>",
+          "hash": "485f55c3619bebb9658b307ff2398072c56570e8ed8a288587f8343adf125ad5",
+          "seo": {
+            "title": "美猴王(MonkeyKing)官网 - VPN梯子网络加速与机场客户端官方下载",
+            "keywords": "美猴王,MonkeyKing,美猴王VPN,美猴王机场,VPN梯子,网络加速,加速器,客户端下载,官网下载,机场订阅,IPLC加速,Clash订阅",
+            "description": "美猴王(MonkeyKing)官方网站提供VPN梯子、机场订阅与多端加速器客户端下载，覆盖办公、流媒体与游戏加速场景，并给出清晰配置流程与套餐说明。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "dyeyb.cn",
+    "host": "p-02e58b316c.dyeyb.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "dyeyb.cn",
+      "url": "https://dyeyb.cn/",
+      "label": "牧牛(MUNIU)",
+      "apex": "dyeyb.cn",
+      "kind": null,
+      "identity": "xepers/page-e214d77911372e27a3e84114"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "f714027491378245cd7ab2e987d19e59626d5e170eda2b2425010f3908213644",
+    "sitemap.xml": "f2aef2438f0e7985bf5c04ad033769a948789cd6c96c5b6f5a4921a5cefbb8df",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a53ddb282a2ce3c9b9407fd41452f108d9a8708e531a99e6bc8148158e94ab2d",
+    "robots.txt": "a8ab57b0572a51866c439bf009684acbbecd9ed9f3fb3ba399651c2de87ef3b7",
+    "345891e519d0a0aa8942deba79689eec.txt": "278b0ae86b0baa13c8c001cf48360fb8f380028f694481d128c3d8f0236691df"
+  },
+  "revision": "104c150517ee013cb5d86aec6c5571def30c56c27f69d6d02c2aa97368a264ec"
+}
